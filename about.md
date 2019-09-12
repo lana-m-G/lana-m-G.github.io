@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A creative person learning how to do life. AKA College Student
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+It will come to me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
