@@ -1,4 +1,4 @@
-# Dear Data :coffee:
+# Dear Data 
 (Please note: this is a school project with creative liberties. Proceed with caution.)
 
 Welcome to the chaos! I'm still learning how to use Markdown, but it is a lot of fun seeing all the little details come together.
