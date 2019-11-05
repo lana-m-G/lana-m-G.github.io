@@ -15,7 +15,6 @@ consumed each day. Surprise! I drink quite a bit.
 
 ![DearDataCoffeeFront](https://github.com/lana-m-G/lana-m-G.github.io/blob/master/Dear%20Data%20Coffee3.png?raw=true) 
 
-
 The backside of the card is also important. It provides a legend for the frontside and go into more detail about your project.
 Here, I used an *xy axis* to show my coffee-drinking habits, with *x* representing the days of the week and *y* representing
 how much coffee per cup I am drinking per day. According to the graph, I drank 13 cups total in the recorded data, which averages 
