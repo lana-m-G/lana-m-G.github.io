@@ -14,7 +14,6 @@ discovered: coffee. Yeah, that makes me sound basic, but I can live with that. F
 consumed each day. Surprise! I drink quite a bit.
 
 
-![DearDataCoffeeFront](https://github.com/lana-m-G/lana-m-G.github.io/blob/master/Dear%20Data%20Coffee3.png) 
 
 
 The backside of the card is also important. It provides a legend for the frontside and go into more detail about your project.
