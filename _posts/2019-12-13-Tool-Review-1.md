@@ -1,4 +1,4 @@
-# Tool Review 1: Palladio
+# Tool Review: Palladio
 
 Palladio is a free, open-access tool that is also the product of a grant given to the Stanford Department of Humanities and Design. 
 Palladio’s purpose is to analyze relationships across space and time through data points. Through relatively easy-to-use tabs and options, 
