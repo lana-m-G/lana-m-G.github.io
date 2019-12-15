@@ -13,7 +13,7 @@ As for myself, I decided to do something that would be simple yet analytical. I 
 discovered: coffee. Yeah, that makes me sound basic, but I can live with that. For about a week, I kept track of how much coffee I
 consumed each day. Surprise! I drink quite a bit.
 
-![link](https://github.com/lana-m-G/lana-m-G.github.io/blob/master/images/DearDataCoffee3.png?raw=true)
+![link](https://lana-m-g.github.io/images/DearDataCoffee3.png)
 
 
 The backside of the card is also important. It provides a legend for the frontside and go into more detail about your project.
